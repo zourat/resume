@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-import{a as p,b as r,c as i,d as n,e as m,l as a,n as f,o as s,r as c,x as d}from"./chunk-MHLVE3QD.mjs";var l=(()=>{let t=class t{constructor(){this.title="moncv"}};t.\u0275fac=function(e){return new(e||t)},t.\u0275cmp=p({type:t,selectors:[["app-root"]],standalone:!0,features:[m],decls:4,vars:0,template:function(e,y){e&1&&(r(0,"h1"),n(1,"azer mejri"),i(),r(2,"h2"),n(3,"Hiiiii"),i())}});let o=t;return o})();var u=[];var v={providers:[d(u),s()]};var C={providers:[c()]},g=a(v,C);var h=()=>f(l,g),k=h;export{k as a};
